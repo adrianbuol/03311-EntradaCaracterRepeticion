@@ -44,7 +44,7 @@ public class Main {
 
             } catch (Exception e) {
                 System.out.println("ERROR: Entrada incorrecta.");
-            } 
+            }
         } while (!procesoOK);
         System.out.println("END");
     }
